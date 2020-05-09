@@ -1,0 +1,10 @@
+name = "FastJet_jll"
+uuid = "7111ce8a-33e8-59c0-b870-b64149b8fb4c"
+version = "3.3.4+1"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.0"

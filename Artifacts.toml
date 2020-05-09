@@ -1,0 +1,10 @@
+[[FastJet]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7053b1e34abf727721bd82befa836502f7d31068"
+libc = "glibc"
+os = "linux"
+
+    [[FastJet.download]]
+    sha256 = "aa2269220a945040f6d435a33efa8a09ef01c7e1e5caa20f1b7c0a8252122db1"
+    url = "https://github.com/jstrube/FastJet_jll.jl/releases/download/FastJet-v3.3.4+1/FastJet.v3.3.4.x86_64-linux-gnu-cxx11.tar.gz"
